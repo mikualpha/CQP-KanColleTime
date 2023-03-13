@@ -3,8 +3,6 @@
 
 因CoolQ已经关闭，可采用[MiraiNative框架](https://github.com/iTXTech/mirai-native)使用本插件。
 
-Gitter聊天室：[![Gitter](https://badges.gitter.im/MikuAlphaBot/community.svg)](https://gitter.im/MikuAlphaBot/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 ## 使用组件
 [CQP Native SDK](https://github.com/Jie2GG/Native.Cqp.Csharp) ([MIT License](https://github.com/Jie2GG/Native.Cqp.Csharp/blob/Final/LICENSE))
 
